@@ -12,6 +12,12 @@ Initial Commit<br/>
 ## Mods
 Mods used go here<br/>
 
+**_[DEAD AIR — ENGLISH TRANSLATION [0.3]](https://www.moddb.com/mods/dead-air/downloads/dead-air-english-translation)_**<br/>
+(Ver: 7/15/2018)<br/>
+*Translates the mod to English*<br/>
+<br/>
+
+
 ## My Mods
 What I mod goes here <br/>
 
